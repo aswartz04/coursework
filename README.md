@@ -1,2 +1,4 @@
-# coursework
-CSUEB Master's Program
+# CSUEB Master's Program Projects
+Contents Details
+
+
