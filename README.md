@@ -5,5 +5,5 @@ Contents Details:
 
 **Regression Report -** Using regression, a linear relationship is explored between wage and explanatory variables such as gender, business type, and location.
 
-**Statistical Theory -** Various theoretical concepts in Statistics are investigated through simulation.  Topics include confidence interval estimation, properties of the Normal Distribution, and maximum likelihood estimation.
+**Statistical Theory -** Various theoretical concepts in Statistics are investigated through simulation.  Topics include confidence interval estimation, properties of sample sizes using the Normal Distribution, and maximum likelihood estimation.
 
