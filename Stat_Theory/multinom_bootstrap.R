@@ -14,6 +14,7 @@ p <- c(0.5089,0.2411,0.2411,0.0089)
 #initialize parameter found by bootstrap
 theta.star <- numeric(m)
 
+#bootstrap procedure
 for(i in 1:m){
 		y <- rmultinom(1,n,p)
 		#the MLE for theta was found to be quadratic and so the following coefficients are used to compute it
